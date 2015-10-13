@@ -7,7 +7,7 @@ namespace Injestix.Gateway
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Injestix");
+            
 
             Thread.Sleep(Timeout.Infinite);
         }

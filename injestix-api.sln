@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injestix.Gateway", "Injestix.Gateway\Injestix.Gateway.csproj", "{204C2A57-5FEC-4D51-9ED4-543D5932D48A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injestix.Storage", "Injestix.Storage\Injestix.Storage.csproj", "{059181DC-44E6-4AF0-A86D-24E587DE0536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injestix.Services", "Injestix.Services\Injestix.Services.csproj", "{7ABA8FB1-457A-406F-9ADD-D45BAC0248F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injestix", "Injestix\Injestix.csproj", "{6AD26FB5-5631-42C3-945A-D9F5E9FC7836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,18 @@ Global
 		{204C2A57-5FEC-4D51-9ED4-543D5932D48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{204C2A57-5FEC-4D51-9ED4-543D5932D48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{204C2A57-5FEC-4D51-9ED4-543D5932D48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059181DC-44E6-4AF0-A86D-24E587DE0536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059181DC-44E6-4AF0-A86D-24E587DE0536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059181DC-44E6-4AF0-A86D-24E587DE0536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059181DC-44E6-4AF0-A86D-24E587DE0536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABA8FB1-457A-406F-9ADD-D45BAC0248F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABA8FB1-457A-406F-9ADD-D45BAC0248F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABA8FB1-457A-406F-9ADD-D45BAC0248F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABA8FB1-457A-406F-9ADD-D45BAC0248F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD26FB5-5631-42C3-945A-D9F5E9FC7836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD26FB5-5631-42C3-945A-D9F5E9FC7836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD26FB5-5631-42C3-945A-D9F5E9FC7836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD26FB5-5631-42C3-945A-D9F5E9FC7836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
